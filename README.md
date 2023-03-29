@@ -5,4 +5,4 @@ Final 1D Project for the architectural module, Spatial Design World, the concept
 
 For this projects, I worked with my team and we managed to impress the panel of professors by being recognised as one of the top 3 projects during the final project showcase.
 
-You may find the final design brochure and video in this repository
+You may find the final design brochure in this repository
